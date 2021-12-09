@@ -1,0 +1,52 @@
+.cnd_dtl ul{
+    list-style-type: none;
+    font-size: 25px;
+}
+.ui-datepicker-calendar {
+    display: none;
+    }
+
+    .font-icon {
+    color: #b78909;
+    font-size: 20px;
+    position: absolute;
+    left: 15px;
+    top: 10px;
+}
+nav.main-header ul li a:hover {
+    color: #fff !important;
+}
+.icon-attached.d-flex  {
+    position: relative;
+}
+.icon-attached.d-flex input {
+    padding-left: 50px;
+}
+.main-sidebar{
+    background: #1F262D !important;
+}
+.content-wrapper {
+    background-color: #eee;
+}
+body {
+    font-family: 'Source Sans Pro';
+    font-size: 12px;
+}
+.card {
+    border: 0;
+    border-radius: 0;
+}
+p {
+    color: #979797;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+li.nav-item a i {
+    margin-right: 19px;
+}
+nav.main-header.navbar.navbar-expand.navbar-white.navbar-light {
+    background: #141619;
+    height: 63px;
+}
